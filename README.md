@@ -1,3 +1,5 @@
+**This project was created for educational purposes only and is not functional without a specific setting so as not to harm the owners of the game**
+
 Functionality of this project is to automate farming of stones in game Metin2. This bot does not use code injection but relies on image processing algorithms, so its not dependent on any libraries used by game client.
 
 How does it work:
